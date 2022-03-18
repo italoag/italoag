@@ -1,11 +1,10 @@
 <h2 align="center">Hey you! Here we are, I'm Italo A. G.</h2>
+<p align="center">Enterprise Technology Architect,
 My main goal has always been to spread knowledge in systems development to the market. I study and work with development of systems for over 25 years and during the course of my career, several challenges were faced and overcome.
 </br>
 My focus over the last few years has been to contribute as much as possible to build scalable and secure systems but above all to keep them that way.
 </br>
 Innovation is a word that guides, motivates and guides my work and for that reason, I'm always looking for new technologies and methodologies that bring improvements to my work and the team that I work.
-<p align="center">Enterprise Technology Architect,
-
 </p>
 
 ### 📫 Contacts
