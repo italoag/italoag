@@ -22,7 +22,7 @@ Innovation is a word that guides, motivates and guides my work and for that reas
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=cassandra&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20ASQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
