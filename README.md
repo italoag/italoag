@@ -1,6 +1,6 @@
 <h2 align="left">Hey you! Here we are, I'm Italo A. G.</h2>
 <p align="justify">Enterprise Technology Architect,
-My main goal has always been to spread knowledge in systems development to the market. I study and work with development of systems for over 25 years and during the course of my career, several challenges were faced and overcome.
+My main goal has always been to spread knowledge in systems development to the market. I study and work with development of systems for over 27 years and during the course of my career, several challenges were faced and overcome.
 </br>
 My focus over the last few years has been to contribute as much as possible to build scalable and secure systems but above all to keep them that way.
 </br>
