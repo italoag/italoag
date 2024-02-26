@@ -2,8 +2,10 @@
 <p align="justify">Principal Blockchain Engineer,
 With over 30 years of experience in cryptography, security, and software development, my primary goal has always been to promote knowledge and best practices in the field. 
 </br>
+
 Throughout my career, I've faced and overcome numerous challenges, leading me to recently focus on developing distributed, scalable, and secure systems using Blockchain/DLTs and web3 technologies. 
 </br>
+
 Innovation is what guides, motivates, and directs me, constantly driving me to seek out new technologies and methodologies to enhance both my work and the teams I collaborate with.
 </p>
 
