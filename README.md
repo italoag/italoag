@@ -1,10 +1,10 @@
 <h2 align="left">Hey you! Here we are, I'm Italo A. G.</h2>
-<p align="justify">Enterprise Technology Architect,
-My main goal has always been to spread knowledge in systems development to the market. I study and work with development of systems for over 27 years and during the course of my career, several challenges were faced and overcome.
+<p align="justify">Principal Blockchain Engineer,
+With over 30 years of experience in cryptography, security, and software development, my primary goal has always been to promote knowledge and best practices in the field. 
 </br>
-My focus over the last few years has been to contribute as much as possible to build scalable and secure systems but above all to keep them that way.
+Throughout my career, I've faced and overcome numerous challenges, leading me to recently focus on developing distributed, scalable, and secure systems using Blockchain/DLTs and web3 technologies. 
 </br>
-Innovation is a word that guides, motivates and guides my work and for that reason, I'm always looking for new technologies and methodologies that bring improvements to my work and the team that I work.
+Innovation is what guides, motivates, and directs me, constantly driving me to seek out new technologies and methodologies to enhance both my work and the teams I collaborate with.
 </p>
 
 ### 📫 Contacts
