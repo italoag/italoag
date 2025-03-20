@@ -1,6 +1,6 @@
 <h2 align="left">Hey you! Here we are, I'm Italo A. G.</h2>
-<p align="justify">Principal Blockchain Engineer,
-With over 30 years of experience in cryptography, security, and software development, my primary goal has always been to promote knowledge and best practices in the field. 
+<p align="justify">Blockchain Architect & Engineer,
+With extensive of experience in cryptography, network consensus, security, and software development, my primary goal has always been to promote knowledge and best practices in the field. 
 </br>
 
 Throughout my career, I've faced and overcome numerous challenges, leading me to recently focus on developing distributed, scalable, and secure systems using Blockchain/DLTs and web3 technologies. 
