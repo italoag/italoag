@@ -67,3 +67,15 @@ Innovation is what guides, motivates, and directs me, constantly driving me to s
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 
+## GitHub Activity
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italoag&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italoag&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italoag&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italoag&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italoag&theme=transparent&utcOffset=8)
+
