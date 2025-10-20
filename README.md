@@ -72,10 +72,8 @@ Innovation is what guides, motivates, and directs me, constantly driving me to s
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italoag&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italoag&theme=transparent)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italoag&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italoag&theme=transparent)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italoag&theme=transparent&utcOffset=8)
 
